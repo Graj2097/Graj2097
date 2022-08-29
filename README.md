@@ -7,7 +7,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rraaj-yellow)](https://stackoverflow.com/users/3687251/Rraaj-)
 
 I'm
-Full Stack Solution Architect
+Full Stack Web Developer
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development technologies (.Net), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript),database(MSSQL) and IDE (Visual Studio VS code)
 
 
