@@ -3,7 +3,6 @@
 
 [![Website Badge](https://img.shields.io/badge/Youtube-Rraaj-red)](https://youtube.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Rraaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ravi-raj-g777/)](https://www.linkedin.com/in/Rraaj--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Rraaj-green)]
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Rraaj-yellow)](https://stackoverflow.com)
 
 I'm
